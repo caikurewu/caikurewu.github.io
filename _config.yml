@@ -11,9 +11,9 @@ title                    : "Cai Wu"
 title_separator          : "-"
 name                     : &name "Cai Wu"
 description              : &description "personal description"
-url                      : https://vincentcaiwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://caikurewu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vincentcaiwu/vincentcaiwu.github.io"
+repository               : "caikurewu/caikurewu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,8 +86,8 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=A-wzIBoAAAAJ"
-  email            : "caiwu@berkeley.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=A-wzIBoAAAAJ"
+  email            : "caiwu@ucsb.edu"
   researchgate     : "https://www.researchgate.net/profile/Cai-Wu-8"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vincentcaiwu"
+  github           : "caikurewu"
   google_plus      :
   keybase          :
   instagram        :
