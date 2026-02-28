@@ -14,12 +14,12 @@ My primary research interest lies in **Quantitative Finance**, with a particular
 
 Please feel free to reach out if you would like to discuss research, music, or anything else you find interesting!
 
-My newest version of CV updated on 2/27/2026: [How's your day!](https://caikurewu.github.io/files/CV.pdf)
+My name is pronounced like **"Ts-eye Woo."** Here's the newest version of my CV updated on 2/27/2026: [How's your day!](https://caikurewu.github.io/files/CV.pdf)
 
 Education
 ======
-* Ph.D. in Statistics and Applied Probability, University of California, Santa Barbara, (Santa Barbara, CA), Sept. 2025 - Now
-* B.S. Economics, Fudan University (Shanghai, China), Sept. 2020 - Jun. 2025
+* **Ph.D. in Statistics and Applied Probability**, University of California, Santa Barbara, (Santa Barbara, CA), Sept. 2025 - Now
+* **B.S. Economics**, Fudan University (Shanghai, China), Sept. 2020 - Jun. 2025
 * Visiting student, University of California, Berkeley (Berkeley, CA), Jan. 2023 - May. 2023
 
 Publications and Preprints
@@ -52,5 +52,5 @@ Publications and Preprints
 
 Teaching
 ======
-* PSTAT 5A (UCSB): Understanding Data. (Winter 2026, Fall 2025)
-* PSTAT 5LS (UCSB): Statistics for Life Sciences. (Fall 2025)
+* **PSTAT 5A** (TA, UCSB): Understanding Data (Winter 2026, Fall 2025)
+* **PSTAT 5LS** (TA, UCSB): Statistics for Life Sciences (Fall 2025)
