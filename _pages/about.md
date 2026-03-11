@@ -14,7 +14,9 @@ My primary research interest lies in **Quantitative Finance**, with a particular
 
 Please feel free to reach out if you would like to discuss research, music, or anything else you find interesting!
 
-My name is pronounced like **"Ts-eye Woo."** Here's the newest version of my CV updated on 2/27/2026: [How's your day!](https://caikurewu.github.io/files/CV.pdf)
+My name is pronounced like **"Ts-eye Woo."** Starting in March 2026, I will publish under the name **Cai Kure Wu**. "Kure" is the romanized Japanese of my family name. 
+
+Here's the newest version of my CV updated on 2/27/2026: [How's your day!](https://caikurewu.github.io/files/CV.pdf)
 
 Education
 ======
@@ -24,6 +26,8 @@ Education
 
 Working Papers
 ======
+- Analyzing Shot Dispersion and Reset Mechanics in Competitive Gaming. Submitted.
+
 - Adding and subtracting Merton: A new approach for optimal portfolio and consumption, with [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/home?authuser=0), [Kailin Ding](https://teacher.njust.edu.cn/jjgl/dkl_en/list.htm), and [Yanchu Liu](https://lingnan.sysu.edu.cn/en/faculty/LiuYanchu).
 
 - [Variance optimality of empirical martingale simulation estimators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605168), with Zhenyu Cui, Yanchu Liu, [Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Lingjiong Zhu](https://sites.google.com/view/lingjiongzhu/home?authuser=0). Also available at: [[ResearchGate]](https://www.researchgate.net/publication/374778426_Variance_Optimality_of_Empirical_Martingale_Simulation_Estimators)
