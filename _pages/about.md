@@ -26,7 +26,7 @@ Education
 
 Working Papers
 ======
-- Analyzing Shot Dispersion and Reset Mechanics in Competitive Gaming. Submitted.
+- Analyzing Shot Dispersion and Reset Mechanics in Competitive Gaming.
 
 - Adding and subtracting Merton: A new approach for optimal portfolio and consumption, with [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/home?authuser=0), [Kailin Ding](https://teacher.njust.edu.cn/jjgl/dkl_en/list.htm), and [Yanchu Liu](https://lingnan.sysu.edu.cn/en/faculty/LiuYanchu).
 
@@ -38,6 +38,12 @@ Working Papers
 
 Publications and Preprints
 ======
+- On the Existence of Equilibrium in the Super Manager Model, with Zhenyu Cui, Kailin Ding, and Yanchu Liu. Submitted.
+  <details>
+    <summary style="list-style-type: circle;">Abstract</summary>
+    We revisit the super manager model of Baranchuk et al. (2011). We show that an important condition required for the firm’s optimization problem was overlooked. Once this condition is imposed, the market equilibrium derived in the original paper may fail to exist for certain parameter values. In particular, the existence of equilibrium is conditional on managerial productivity exceeding organizational costs, and disappears when demand is sufficiently weak. We derive the corrected equilibrium system and provide numerical illustrations showing that sufficiently weak demand can eliminate equilibrium altogether. Our results not only clarify the conditions under which the equilibrium of the super manager model is well defined, but also provide economic interpretations when equilibrium fails to exist.
+  </details>
+
 - [VIX options valuation via continuous-time Markov chain approximation and Ito-Taylor expansion](https://www.pm-research.com/content/iijderiv/32/1/11), with Zhenyu Cui, [Chihoon Lee](https://www.stevens.edu/profile/clee4) and Mingzhe Liu. _Journal of Derivatives_, 32(1), 11-31.
   <details>
     <summary style="list-style-type: circle;">Abstract</summary>
@@ -58,5 +64,5 @@ Publications and Preprints
 
 Teaching
 ======
-* **PSTAT 5A** (TA, UCSB): Understanding Data (Winter 2026, Fall 2025)
+* **PSTAT 5A** (TA, UCSB): Understanding Data (Spring & Winter 2026, Fall 2025)
 * **PSTAT 5LS** (TA, UCSB): Statistics for Life Sciences (Fall 2025)
