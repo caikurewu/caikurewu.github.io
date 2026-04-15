@@ -10,13 +10,13 @@ redirect_from:
 
 I am **Cai Wu (吴偲)**, a 1st-year PhD student at the [Department of Statistics and Applied Probability](https://pstat.ucsb.edu/) at [University of California, Santa Barbara](https://www.ucsb.edu/). Previously, I obtained my Bachelor of Science in Economics at the [School of Economics](https://econ.fudan.edu.cn/en/) with a minor in Financial Mathematics at the [School of Mathematical Sciences](https://math.fudan.edu.cn/mathen/main.htm), [Fudan University](https://www.fudan.edu.cn/en/) in China. 
 
-My primary research interest lies in **Quantitative Finance**, with a particular concentration on **Decentralized Finance (DeFi)** and **Financial Technology (FinTech)**. Recently, I have also developed an interest in **E-sports Analytics**, especially in studying game mechanics and player performance in first-person shooter (FPS) games such as *Counter-Strike 2* and *Valorant*—as an avid gamer myself, I find this area both intellectually engaging and personally exciting.
+My name is pronounced like **"Ts-eye Woo."** Starting in April 2026, I will publish under the name **Cai Kure Wu**. "Kure (呉)" is the romanized Japanese of my family name.
 
-Please feel free to reach out if you would like to discuss research, music, or anything else you find interesting!
-
-My name is pronounced like **"Ts-eye Woo."** Starting in March 2026, I will publish under the name **Cai Kure Wu**. "Kure" is the romanized Japanese of my family name. 
+My primary research interest lies in **Quantitative Finance**, **Decentralized Finance (DeFi)** and **Financial Technology (FinTech)**. Recently, I have also developed an interest in **E-sports Analytics**, especially in studying game mechanics and player performance in first-person shooter (FPS) games such as *Counter-Strike 2* and *Valorant*—as an avid gamer myself, I find this area both intellectually engaging and personally exciting.
 
 Here's the newest version of my CV updated on 2/27/2026: [How's your day!](https://caikurewu.github.io/files/CV.pdf)
+
+Please feel free to reach out if you would like to discuss research, music, or anything else you find interesting!
 
 Education
 ======
@@ -24,9 +24,9 @@ Education
 * **B.S. in Economics**, Fudan University (Shanghai, China), Sept. 2020 - Jun. 2025
 * Visiting student, University of California, Berkeley (Berkeley, CA), Jan. 2023 - May. 2023
 
-Working Papers
+Work in Progress
 ======
-- Analyzing Shot Dispersion and Reset Mechanics in Competitive Gaming.
+- When to stop firing: a drift–spread optimization framework for FPS gunplay.
 
 - Adding and subtracting Merton: A new approach for optimal portfolio and consumption, with [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/home?authuser=0), [Kailin Ding](https://teacher.njust.edu.cn/jjgl/dkl_en/list.htm), and [Yanchu Liu](https://lingnan.sysu.edu.cn/en/faculty/LiuYanchu).
 
@@ -38,7 +38,7 @@ Working Papers
 
 Publications and Preprints
 ======
-- On the Existence of Equilibrium in the Super Manager Model, with Zhenyu Cui, Kailin Ding, and Yanchu Liu. Submitted.
+- On the existence of equilibrium in the super manager model, with Zhenyu Cui, Kailin Ding, and Yanchu Liu. Submitted.
   <details>
     <summary style="list-style-type: circle;">Abstract</summary>
     We revisit the super manager model of Baranchuk et al. (2011). We show that an important condition required for the firm’s optimization problem was overlooked. Once this condition is imposed, the market equilibrium derived in the original paper may fail to exist for certain parameter values. In particular, the existence of equilibrium is conditional on managerial productivity exceeding organizational costs, and disappears when demand is sufficiently weak. We derive the corrected equilibrium system and provide numerical illustrations showing that sufficiently weak demand can eliminate equilibrium altogether. Our results not only clarify the conditions under which the equilibrium of the super manager model is well defined, but also provide economic interpretations when equilibrium fails to exist.

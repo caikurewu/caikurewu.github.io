@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cai Wu"
+title                    : "Cai Kure Wu"
 title_separator          : "-"
-name                     : &name "Cai Wu"
+name                     : &name "Cai Kure Wu"
 description              : &description "personal description"
 url                      : https://caikurewu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
