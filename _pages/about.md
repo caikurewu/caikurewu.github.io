@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cai Kure Wu"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
