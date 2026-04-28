@@ -12,7 +12,7 @@ I am **Cai Wu (吴偲)**, a 1st-year PhD student at the [Department of Statistic
 
 My name is pronounced like **"Ts-eye Woo."** Starting in April 2026, I will publish under the name **Cai Kure Wu**. "Kure (呉)" is the romanized Japanese of my family name.
 
-My primary research interest lies in **Quantitative Finance**, **Decentralized Finance (DeFi)** and **Financial Technology (FinTech)**. Recently, I have also developed an interest in **E-sports Analytics**, especially in studying game mechanics and player performance in first-person shooter (FPS) games such as *Counter-Strike 2* and *Valorant*—as an avid gamer myself, I find this area both intellectually engaging and personally exciting.
+My primary research interest lies in **Quantitative Finance**, **Decentralized Finance (DeFi)** and **Financial Technology (FinTech)**. Recently, I have also developed an interest in **E-sports Analytics**, especially in studying game mechanics and player performance in first-person shooter (FPS) games such as *Counter-Strike 2* and *Valorant*.
 
 Here's the newest version of my CV updated on 2/27/2026: [How's your day!](https://caikurewu.github.io/files/CV.pdf)
 
@@ -38,7 +38,7 @@ Work in Progress
 
 Publications and Preprints
 ======
-- On the existence of equilibrium in the super manager model, with Zhenyu Cui, Kailin Ding, and Yanchu Liu. Submitted.
+- [On the existence of equilibrium in the super manager model](https://www.researchgate.net/publication/404231434_On_the_Existence_of_Equilibrium_in_the_Super_Manager_Model), with Zhenyu Cui, Kailin Ding, and Yanchu Liu. Submitted.
   <details>
     <summary style="list-style-type: circle;">Abstract</summary>
     We revisit the super manager model of Baranchuk et al. (2011). We show that an important condition required for the firm’s optimization problem was overlooked. Once this condition is imposed, the market equilibrium derived in the original paper may fail to exist for certain parameter values. In particular, the existence of equilibrium is conditional on managerial productivity exceeding organizational costs, and disappears when demand is sufficiently weak. We derive the corrected equilibrium system and provide numerical illustrations showing that sufficiently weak demand can eliminate equilibrium altogether. Our results not only clarify the conditions under which the equilibrium of the super manager model is well defined, but also provide economic interpretations when equilibrium fails to exist.
