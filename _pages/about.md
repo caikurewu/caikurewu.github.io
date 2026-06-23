@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am **Cai Wu (吴偲)**, a 1st-year PhD student at the [Department of Statistics and Applied Probability](https://pstat.ucsb.edu/) at [University of California, Santa Barbara](https://www.ucsb.edu/). Previously, I obtained my Bachelor of Science in Economics at the [School of Economics](https://econ.fudan.edu.cn/en/) with a minor in Financial Mathematics at the [School of Mathematical Sciences](https://math.fudan.edu.cn/mathen/main.htm), [Fudan University](https://www.fudan.edu.cn/en/) in China. 
+I am **Cai Wu (吴偲)**, a 1st-year PhD student at the [Department of Statistics and Applied Probability](https://pstat.ucsb.edu/) at [University of California, Santa Barbara](https://www.ucsb.edu/). Previously, I obtained my Bachelor of Science in Economics at the [School of Economics](https://econ.fudan.edu.cn/en/), [Fudan University](https://www.fudan.edu.cn/en/) in China. 
 
-My name is pronounced like **"Ts-eye Woo."** Starting in April 2026, I will publish under the name **Cai Kure Wu**. "Kure (呉)" is the romanized Japanese of my family name.
+My name is pronounced like **"Ts-eye Woo."** Starting in April 2026, I will publish under the name **Cai Kure Wu**. "Kure (呉)" is the romanized Japanese of my family name, .
 
 My primary research interest lies in **Quantitative Finance**, **Decentralized Finance (DeFi)** and **Financial Technology (FinTech)**. Recently, I have also developed an interest in **E-sports Analytics**, especially in studying game mechanics and player performance in first-person shooter (FPS) games such as *Counter-Strike 2* and *Valorant*.
 
-Here's the newest version of my CV updated on 2/27/2026: [How's your day!](https://caikurewu.github.io/files/CV.pdf)
+<!-- Here's the newest version of my CV updated on 2/27/2026: [How's your day!](https://caikurewu.github.io/files/CV.pdf) -->
 
 Please feel free to reach out if you would like to discuss research, music, or anything else you find interesting!
 
@@ -26,8 +26,6 @@ Education
 
 Work in Progress
 ======
-- When to stop firing: a drift–spread optimization framework for FPS gunplay.
-
 - Adding and subtracting Merton: A new approach for optimal portfolio and consumption, with [Zhenyu Cui](https://sites.google.com/site/zhenyucui86/home?authuser=0), [Kailin Ding](https://teacher.njust.edu.cn/jjgl/dkl_en/list.htm), and [Yanchu Liu](https://lingnan.sysu.edu.cn/en/faculty/LiuYanchu).
 
 - [Variance optimality of empirical martingale simulation estimators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4605168), with Zhenyu Cui, Yanchu Liu, [Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Lingjiong Zhu](https://sites.google.com/view/lingjiongzhu/home?authuser=0). Also available at: [[ResearchGate]](https://www.researchgate.net/publication/374778426_Variance_Optimality_of_Empirical_Martingale_Simulation_Estimators)
@@ -38,10 +36,10 @@ Work in Progress
 
 Publications and Preprints
 ======
-- [On the existence of equilibrium in the super manager model](https://www.researchgate.net/publication/404231434_On_the_Existence_of_Equilibrium_in_the_Super_Manager_Model), with Zhenyu Cui, Kailin Ding, and Yanchu Liu. Submitted.
+- [On the existence of equilibrium in the super manager model](https://www.sciencedirect.com/science/article/pii/S0165176526002922), with Zhenyu Cui, Kailin Ding, and Yanchu Liu. _Economics Letters_, in press.
   <details>
     <summary style="list-style-type: circle;">Abstract</summary>
-    We revisit the super manager model of Baranchuk et al. (2011). We show that an important condition required for the firm’s optimization problem was overlooked. Once this condition is imposed, the market equilibrium derived in the original paper may fail to exist for certain parameter values. In particular, the existence of equilibrium is conditional on managerial productivity exceeding organizational costs, and disappears when demand is sufficiently weak. We derive the corrected equilibrium system and provide numerical illustrations showing that sufficiently weak demand can eliminate equilibrium altogether. Our results not only clarify the conditions under which the equilibrium of the super manager model is well defined, but also provide economic interpretations when equilibrium fails to exist.
+    We revisit the super manager model of Baranchuk et al. (2011). We show that an important condition required for the firm's optimization problem was overlooked. Once this condition is imposed, the market equilibrium derived in the original paper may fail to exist for certain parameter values. In particular, the existence of equilibrium is conditional on managerial productivity exceeding organizational costs, and disappears when demand is sufficiently weak. We derive the corrected equilibrium system and provide numerical illustrations showing that sufficiently weak demand can eliminate equilibrium altogether. Our results not only clarify the conditions under which the equilibrium of the super manager model is well defined, but also provide economic interpretations when equilibrium fails to exist.
   </details>
 
 - [VIX options valuation via continuous-time Markov chain approximation and Ito-Taylor expansion](https://www.pm-research.com/content/iijderiv/32/1/11), with Zhenyu Cui, [Chihoon Lee](https://www.stevens.edu/profile/clee4) and Mingzhe Liu. _Journal of Derivatives_, 32(1), 11-31.
@@ -64,5 +62,19 @@ Publications and Preprints
 
 Teaching
 ======
-* **PSTAT 5A** (TA, UCSB): Understanding Data (Spring & Winter 2026, Fall 2025)
+* **PSTAT 5A** (TA, UCSB): Understanding Data (Summer, Spring & Winter 2026, Fall 2025)
 * **PSTAT 5LS** (TA, UCSB): Statistics for Life Sciences (Fall 2025)
+
+<div class="last-updated">
+  Last updated: 2026.6.22
+</div>
+
+<style>
+  .last-updated {
+    margin-top: 40px;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 12px;
+    color: #888;
+  }
+</style>
