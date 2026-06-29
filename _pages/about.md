@@ -10,7 +10,7 @@ redirect_from:
 
 I am **Cai Wu (吴偲)**, a 1st-year PhD student at the [Department of Statistics and Applied Probability](https://pstat.ucsb.edu/) at [University of California, Santa Barbara](https://www.ucsb.edu/). Previously, I obtained my Bachelor of Science in Economics at the [School of Economics](https://econ.fudan.edu.cn/en/), [Fudan University](https://www.fudan.edu.cn/en/) in China. 
 
-My name is pronounced like **"Ts-eye Woo."** Starting in April 2026, I will publish under the name **Cai Kure Wu**. "Kure (呉)" is the romanized Japanese of my family name, .
+My name is pronounced like **"Ts-eye Woo."** Starting in April 2026, I will publish under the name **Cai Kure Wu**. "Kure (呉)" is the romanized Japanese of my family name.
 
 My primary research interest lies in **Quantitative Finance**, **Decentralized Finance (DeFi)** and **Financial Technology (FinTech)**. Recently, I have also developed an interest in **E-sports Analytics**, especially in studying game mechanics and player performance in first-person shooter (FPS) games such as *Counter-Strike 2* and *Valorant*.
 
