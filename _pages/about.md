@@ -36,7 +36,7 @@ Work in Progress
 
 Publications and Preprints
 ======
-- [On the existence of equilibrium in the super manager model](https://www.sciencedirect.com/science/article/pii/S0165176526002922), with Zhenyu Cui, Kailin Ding, and Yanchu Liu. _Economics Letters_, in press.
+- [On the existence of equilibrium in the super manager model](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fc%2F1nLHzbZeeA5hg/1/0102019f0953b564-83377235-c277-43ee-9bdb-7ea0e6fa1592-000000/xsQS0MZHfTcR80Ib_mfqzX1TpOY=473), with Zhenyu Cui, Kailin Ding, and Yanchu Liu. _Economics Letters_, 267, 113098.
   <details>
     <summary style="list-style-type: circle;">Abstract</summary>
     We revisit the super manager model of Baranchuk et al. (2011). We show that an important condition required for the firm's optimization problem was overlooked. Once this condition is imposed, the market equilibrium derived in the original paper may fail to exist for certain parameter values. In particular, the existence of equilibrium is conditional on managerial productivity exceeding organizational costs, and disappears when demand is sufficiently weak. We derive the corrected equilibrium system and provide numerical illustrations showing that sufficiently weak demand can eliminate equilibrium altogether. Our results not only clarify the conditions under which the equilibrium of the super manager model is well defined, but also provide economic interpretations when equilibrium fails to exist.
@@ -66,7 +66,7 @@ Teaching
 * **PSTAT 5LS** (TA, UCSB): Statistics for Life Sciences (Fall 2025)
 
 <div class="last-updated">
-  Last updated: 2026.6.22
+  Last updated: 2026.6.28
 </div>
 
 <style>
