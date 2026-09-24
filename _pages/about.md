@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am **Cai Wu (吴偲)**, a 1st-year PhD student at the [Department of Statistics and Applied Probability](https://pstat.ucsb.edu/) at [University of California, Santa Barbara](https://www.ucsb.edu/). Previously, I obtained my Bachelor of Science in Economics at the [School of Economics](https://econ.fudan.edu.cn/en/), [Fudan University](https://www.fudan.edu.cn/en/) in China. 
+I am **Cai Wu (吴偲)**, a 2nd-year PhD student at the [Department of Statistics and Applied Probability](https://pstat.ucsb.edu/) at [University of California, Santa Barbara](https://www.ucsb.edu/). Previously, I obtained my Bachelor of Science in Economics at the [School of Economics](https://econ.fudan.edu.cn/en/), [Fudan University](https://www.fudan.edu.cn/en/) in China. 
 
 My name is pronounced like **"Ts-eye Woo."** Starting in April 2026, I will publish under the name **Cai Kure Wu**. "Kure (呉)" is the romanized Japanese of my family name.
 
-My primary research interest lies in **Quantitative Finance**, **Decentralized Finance (DeFi)** and **Financial Technology (FinTech)**. Recently, I have also developed an interest in **E-sports Analytics**, especially in studying game mechanics and player performance in first-person shooter (FPS) games such as *Counter-Strike 2* and *Valorant*.
+My primary research interest lies in **Machine Learning** and **Reinforcement Learning**, as well as their applications in **Quantitative Finance**, **Decentralized Finance (DeFi)** and **Financial Technology (FinTech)**. Recently, I have also developed an interest in **E-sports Analytics**, especially in studying game mechanics and player performance in first-person shooter (FPS) games such as *Counter-Strike 2* and *Valorant*.
 
 <!-- Here's the newest version of my CV updated on 2/27/2026: [How's your day!](https://caikurewu.github.io/files/CV.pdf) -->
 
@@ -62,11 +62,13 @@ Publications and Preprints
 
 Teaching
 ======
+* **PSTAT 173** (TA, UCSB): Risk Theory (Fall 2026)
+* **PSTAT 8** (TA, UCSB): Transition to Data Science, Probability and Statistics (Fall 2026)
 * **PSTAT 5A** (TA, UCSB): Understanding Data (Summer, Spring & Winter 2026, Fall 2025)
 * **PSTAT 5LS** (TA, UCSB): Statistics for Life Sciences (Fall 2025)
 
 <div class="last-updated">
-  Last updated: 2026.6.28
+  Last updated: 2026.9.24
 </div>
 
 <style>
